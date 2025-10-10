@@ -12,6 +12,6 @@ given the user name I simply started off googling "Minecraft Skin Stealer" until
 URL: https://crafty.gg/
 and with this I downloaded and got the Flag
 
-![alt text](https://github.com/KonchuHuntr/CTF-Write-ups/blob/main/IMAGES/skin.png | width = 100)
+![](https://github.com/KonchuHuntr/CTF-Write-ups/blob/main/IMAGES/skin.png) | width = 100
 
 (flag is located on a png called oatzMC.png in this folder)
