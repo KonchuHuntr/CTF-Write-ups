@@ -11,4 +11,5 @@ PS: A Minecraft account/instance is not required for this challenge. The most re
 given the user name I simply started off googling "Minecraft Skin Stealer" until I found a tool that would let me pull a users skin history and skin download based soley on the name
 URL: https://crafty.gg/
 and with this I downloaded and got the Flag
+![alt text](IMAGES/skin.png)
 (flag is located on a png called oatzMC.png in this folder)
