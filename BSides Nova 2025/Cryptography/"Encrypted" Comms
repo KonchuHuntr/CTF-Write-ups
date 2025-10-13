@@ -1,0 +1,18 @@
+# "Encrypted" Comms
+I wanted to encrypt my communications with my friend, but when I was supposed to exchange PGP keys, he sent me this giberish! Can you help me figure out what he was saying?
+
+dreadful glossary indoors frequency crucial equation cubic inferno hockey gravity chairlift 
+impartial glucose getaway eyetooth gravity choking impetus chisel forever indulge hurricane 
+chisel getaway eyetooth consensus frighten concurrent eyetooth commando indoors gravity 
+chisel holiness eyetooth embezzle dashboard embezzle klaxon
+
+Solution:
+
+I had a bit of an issue regarding this problem as I had not recognized the encryption. 
+Upon some searching, I discovered PGP wordlists.
+
+PGP wordlists turn raw bytes into readable words by using 2 wordlists for ev
+
+
+https://www.dcode.fr/pgp-word-list
+MetaCTF{sh0uld_h4v3_us3d_7h3_0th3r_PGP}
